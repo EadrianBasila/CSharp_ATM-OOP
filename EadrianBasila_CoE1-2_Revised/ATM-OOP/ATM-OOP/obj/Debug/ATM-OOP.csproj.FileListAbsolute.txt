@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\bin\Debug\ATM-OOP.exe.config
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\bin\Debug\ATM-OOP.exe
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\bin\Debug\ATM-OOP.pdb
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\obj\Debug\ATM-OOP.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\obj\Debug\ATM-OOP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\obj\Debug\ATM-OOP.exe
+C:\Users\ACER\source\repos\ATM-OOP\ATM-OOP\obj\Debug\ATM-OOP.pdb
